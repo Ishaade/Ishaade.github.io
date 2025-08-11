@@ -14,4 +14,4 @@ Visit: [https://<yourusername>.github.io](https://<yourusername>.github.io)
 ## 🛠 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<yourusername>/<yourusername>.github.io.git
+   git clone https://github.com/Ishaade/Ishaade.github.io.git
