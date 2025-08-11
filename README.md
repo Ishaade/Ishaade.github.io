@@ -4,7 +4,8 @@ This is my personal static website hosted using **GitHub Pages**.
 It contains HTML, CSS, and JavaScript files to showcase the github pages
 
 ## 🚀 How to View
-Visit: [https://<yourusername>.github.io](https://<yourusername>.github.io)  
+Visit:https://ishaade.github.io/
+  
 
 ## 📂 Project Structure
 - **index.html** – Main webpage  
